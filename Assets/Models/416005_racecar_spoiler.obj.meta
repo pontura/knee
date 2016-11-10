@@ -1,0 +1,213 @@
+fileFormatVersion: 2
+guid: 1c84473b3d11648eaad9ea4fe4f1543d
+timeCreated: 1470940470
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 1
+    100002: 10
+    100004: 12
+    100006: 13
+    100008: 14
+    100010: 15
+    100012: 17
+    100014: 18
+    100016: 2
+    100018: 20
+    100020: 21
+    100022: 23
+    100024: 24
+    100026: 26
+    100028: 27
+    100030: 28
+    100032: 29
+    100034: 31
+    100036: 33
+    100038: 34
+    100040: 36
+    100042: 37
+    100044: 39
+    100046: 4
+    100048: 40
+    100050: //RootNode
+    100052: 5
+    100054: 7
+    100056: 8
+    400000: 1
+    400002: 10
+    400004: 12
+    400006: 13
+    400008: 14
+    400010: 15
+    400012: 17
+    400014: 18
+    400016: 2
+    400018: 20
+    400020: 21
+    400022: 23
+    400024: 24
+    400026: 26
+    400028: 27
+    400030: 28
+    400032: 29
+    400034: 31
+    400036: 33
+    400038: 34
+    400040: 36
+    400042: 37
+    400044: 39
+    400046: 4
+    400048: 40
+    400050: //RootNode
+    400052: 5
+    400054: 7
+    400056: 8
+    2300000: 1
+    2300002: 10
+    2300004: 12
+    2300006: 13
+    2300008: 14
+    2300010: 15
+    2300012: 17
+    2300014: 18
+    2300016: 2
+    2300018: 20
+    2300020: 21
+    2300022: 23
+    2300024: 24
+    2300026: 26
+    2300028: 27
+    2300030: 28
+    2300032: 29
+    2300034: 31
+    2300036: 33
+    2300038: 34
+    2300040: 36
+    2300042: 37
+    2300044: 39
+    2300046: 4
+    2300048: 40
+    2300050: 5
+    2300052: 7
+    2300054: 8
+    3300000: 1
+    3300002: 10
+    3300004: 12
+    3300006: 13
+    3300008: 14
+    3300010: 15
+    3300012: 17
+    3300014: 18
+    3300016: 2
+    3300018: 20
+    3300020: 21
+    3300022: 23
+    3300024: 24
+    3300026: 26
+    3300028: 27
+    3300030: 28
+    3300032: 29
+    3300034: 31
+    3300036: 33
+    3300038: 34
+    3300040: 36
+    3300042: 37
+    3300044: 39
+    3300046: 4
+    3300048: 40
+    3300050: 5
+    3300052: 7
+    3300054: 8
+    4300000: 1
+    4300002: 10
+    4300004: 12
+    4300006: 13
+    4300008: 14
+    4300010: 15
+    4300012: 17
+    4300014: 18
+    4300016: 2
+    4300018: 20
+    4300020: 21
+    4300022: 23
+    4300024: 24
+    4300026: 26
+    4300028: 27
+    4300030: 28
+    4300032: 29
+    4300034: 31
+    4300036: 33
+    4300038: 34
+    4300040: 36
+    4300042: 37
+    4300044: 39
+    4300046: 4
+    4300048: 40
+    4300050: 5
+    4300052: 7
+    4300054: 8
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
